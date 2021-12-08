@@ -1,0 +1,7 @@
+tensorflow-cpu
+numpy==1.21.4
+opencv_python==4.5.4.60
+streamlit==1.1.0
+streamlit_drawable_canvas==0.8.0
+tensorflow==2.7.0
+~~mpy==1.20.1
